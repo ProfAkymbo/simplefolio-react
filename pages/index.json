@@ -52,11 +52,11 @@
   "contact": {
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "your-form-id" https://formspree.io/f/xknayvzy
+    "formId": "https://formspree.io/f/xknayvzy"
   },
   "footer": {
-		"linkedin": "",
-		"twitter": "",
-		"github": ""
+		"linkedin": "https://linkedin.com/in/oyebanjiakeemolawale",
+		"twitter": "https://mobile.twitter.com/ProfAkymbo",
+		"github": "https://github.com/ProfAkymbo"
 	}
 }
